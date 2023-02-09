@@ -6,6 +6,6 @@ The dataset used was created by Buda et al. (https://arxiv.org/abs/1906.03720). 
 
 Our model, a modified MobileNetv3, achieved 85% Dice score, outperforming the original U-Net implementation of the authors whilst having 0.05% of U-Net's paramenters (350k v 7m params).
 
-Project presentation: [ISPR_PROJECT_SLIDES](/ISPR_PROJECT_SLIDES.pdf)
-
 Project report: [ISPR_PROJECT_REPORT](/ISPR_PROJECT_REPORT.pdf)
+
+Project presentation: [ISPR_PROJECT_SLIDES](/ISPR_PROJECT_SLIDES.pdf)
