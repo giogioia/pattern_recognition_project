@@ -1,6 +1,7 @@
 # pattern_recognition_project
+Deep convolutional neural network implementation for brain tumor segmentation.
 
-in this project I pre-processed MRI scans by applying skull-stripping techniques and eventually built an extremely lightweight convolutional neural network for brain tumor segmentation.
+In this project I pre-processed MRI scans by applying skull-stripping techniques and eventually built an extremely lightweight convolutional neural network with Keras for brain tumor segmentation.
 
 The dataset used was created by Buda et al. (https://arxiv.org/abs/1906.03720). The authors used a U-Net model for brain tumor segmentation. U-Net has 7m paramenters. Our goal was to develop a lightweight model that would yield similar performance of the author's U-Net implementation (82% Dice score).
 
